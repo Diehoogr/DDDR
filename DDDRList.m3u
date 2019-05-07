@@ -12,49 +12,29 @@ http://primestreams.tv:826/darren1/1darren/73910
 http://primestreams.tv:826/darren1/1darren/73909
 #EXTINF:-1,ES: HBO Signature Local
 http://primestreams.tv:826/darren1/1darren/73912
-#EXTINF:-1,US: FOX HD
-http://pro.falconiptv.com:25461/0987654321/1234567890/57496
-#EXTINF:-1,US: FOX SOCCER SUN FHD
-http://pro.falconiptv.com:25461/0987654321/1234567890/57491
-#EXTINF:-1,US: Fox Sports (Florida) HD
-http://pro.falconiptv.com:25461/0987654321/1234567890/57488
-#EXTINF:-1,US: Fox Sports (Mid West) HD
-http://pro.falconiptv.com:25461/0987654321/1234567890/57487
-#EXTINF:-1,US: Fox Sports (North) HD
-http://pro.falconiptv.com:25461/0987654321/1234567890/57486
-#EXTINF:-1,US: Fox Sports (Ohio) HD
-http://pro.falconiptv.com:25461/0987654321/1234567890/57485
-#EXTINF:-1,US: Fox Sports (South East) HD
-http://pro.falconiptv.com:25461/0987654321/1234567890/57484
-#EXTINF:-1,US: Fox Sports (South West) Plus
-http://pro.falconiptv.com:25461/0987654321/1234567890/57482
-#EXTINF:-1,US: Fox Sports (South) HD
-http://pro.falconiptv.com:25461/0987654321/1234567890/57481
-#EXTINF:-1,US: Fox Sports (Sun) HD
-http://pro.falconiptv.com:25461/0987654321/1234567890/57480
-#EXTINF:-1,US: Fox Sports (West) HD
-http://pro.falconiptv.com:25461/0987654321/1234567890/57479
-#EXTINF:-1,US: Fox SPORTS 25 HD
-http://pro.falconiptv.com:25461/0987654321/1234567890/57474
-#EXTINF:-1,US: Fox Sports 3
-http://pro.falconiptv.com:25461/0987654321/1234567890/57477
-#EXTINF:-1,US: Fox Sports 5
-http://pro.falconiptv.com:25461/0987654321/1234567890/57475
-#EXTINF:-1,US: FOX SPORTS CAROLINAS HD
-http://pro.falconiptv.com:25461/0987654321/1234567890/57472
-#EXTINF:-1,US: FOX SPORTS CLEVELAND HD
-http://pro.falconiptv.com:25461/0987654321/1234567890/57471
-#EXTINF:-1,US: FOX SPORTS HD ASIA
-http://pro.falconiptv.com:25461/0987654321/1234567890/57469
-#EXTINF:-1,US: FOX SPORTS NET HD
-http://pro.falconiptv.com:25461/0987654321/1234567890/57468
-#EXTINF:-1,US: FOX Sports Prime Ticket
-http://pro.falconiptv.com:25461/0987654321/1234567890/57466
-#EXTINF:-1,US: FOX Sports San Diego
-http://pro.falconiptv.com:25461/0987654321/1234567890/57465
-#EXTINF:-1,US: FOX SPORTS SPORTSTIME OHIO HD
-http://pro.falconiptv.com:25461/0987654321/1234567890/57464
-#EXTINF:-1,US: Fox Sports Tennessee HD
-http://pro.falconiptv.com:25461/0987654321/1234567890/57463
-#EXTINF:-1,US: FOX SPORTS YES HD
-http://pro.falconiptv.com:25461/0987654321/1234567890/57462
+#EXTINF:-1,[USA]_NBA_TV_HD
+http://live.edload.com:8000/live/543437453543/566672686597/804.m3u8
+#EXTINF:-1,[USA]_NBC_SPORT
+http://live.edload.com:8000/live/543437453543/566672686597/245.m3u8
+#EXTINF:-1,[USA]_STARZ_EDGE
+http://live.edload.com:8000/live/543437453543/566672686597/801.m3u8
+#EXTINF:-1,[USA]_TBS_HD
+http://live.edload.com:8000/live/543437453543/566672686597/805.m3u8
+#EXTINF:-1,[USA]_CNN
+http://live.edload.com:8000/live/543437453543/566672686597/444.m3u8
+#EXTINF:-1,[USA]_FOX_SPORTS_1HD
+http://live.edload.com:8000/live/543437453543/566672686597/384.m3u8
+#EXTINF:-1,[USA]_FOX_SPORTS_2HD
+http://live.edload.com:8000/live/543437453543/566672686597/383.m3u8
+#EXTINF:-1,[USA]_beIN_SPORTS_US_HD
+http://live.edload.com:8000/live/543437453543/566672686597/4758.m3u8
+#EXTINF:-1,[USA]_TSN_1_HD
+http://live.edload.com:8000/live/543437453543/566672686597/4169.m3u8
+#EXTINF:-1,[USA]_TSN_2_HD
+http://live.edload.com:8000/live/543437453543/566672686597/4170.m3u8
+#EXTINF:-1,[USA]_TSN_3_HD
+http://live.edload.com:8000/live/543437453543/566672686597/4171.m3u8
+#EXTINF:-1,[USA]_TSN_4_HD
+http://live.edload.com:8000/live/543437453543/566672686597/4172.m3u8
+#EXTINF:-1,[USA]_TSN_5_HD
+http://live.edload.com:8000/live/543437453543/566672686597/4173.m3u8
